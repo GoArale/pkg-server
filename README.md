@@ -1,2 +1,2 @@
 # pkg-server
-Download IOS IPA Android PKG Server
+Download IOS IPA Android PKG Https Server
